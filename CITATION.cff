@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SVDD-ANE-WLDSG: Code for Link Prediction Experiments"
+version: 1.0.0
+authors:
+  - family-names: "Dawood"
+    given-names: "Yasser Ahmed"
+  - family-names: "Al-Furas"
+    given-names: "Amr"
+date-released: 2026-09-29
+repository-code: "https://github.com/amr-furas/SVDD-ANE-WLDSG"
